@@ -1,6 +1,6 @@
 ---
-title: We Provide The Best Web & IT Solutions!
-subtitle: 'We delivered cutting-edge, responsive and modern web & apps.'
+title: We Provide Web & IT Solutions!
+subtitle: 'We deliver cutting-edge, responsive and modern web & apps.'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
