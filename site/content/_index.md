@@ -3,12 +3,11 @@ title: We Provide Web & IT Solutions!
 subtitle: 'We deliver cutting-edge, responsive, modern website and apps.'
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why CAO?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    CAO (ChromeAxis.Online) is a Website and App Design/Development, and SEO
+    Provider. As a Digital Agency, We are known for giving clients a 100%
+    satisfaction on our Services and Products.
 intro:
   heading: What we offer
   text: >-
