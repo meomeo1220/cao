@@ -14,19 +14,15 @@ intro:
     We provide a wide-range of digital services that will help your company
     growth boosts to its limit. 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/blogging-coding-computer-34140.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      We build cutting-edge and responsive websites that will maximize your
+      traffic so you can get your sales boosts up to 100%.
+  - image: /img/advertising-amazon-amazon-seo-907607.jpg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      We have launched a number of successful websites that give our clients
+      wanting for more projects to us. We figured out the formula on how to
+      engage more traffic to your online business.
 values:
   heading: Our values
   text: >-
