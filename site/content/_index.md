@@ -11,10 +11,8 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We provide a wide-range of digital services that will help your company
+    growth boosts to its limit. 
 products:
   - image: img/illustrations-coffee.svg
     text: >-
